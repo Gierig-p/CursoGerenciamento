@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\bin\Debug\net8.0\CursoP.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\bin\Debug\net8.0\CursoP.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\bin\Debug\net8.0\CursoP.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\bin\Debug\net8.0\CursoP.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\bin\Debug\net8.0\CursoP.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\refint\CursoP.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\CursoP.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\Curso\obj\Debug\net8.0\ref\CursoP.dll
